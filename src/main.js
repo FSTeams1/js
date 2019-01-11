@@ -12,7 +12,7 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //TOLONG GANTI SEMUA SEPERTI LOCKUPDATEGROUP TAPI MSG SERTA UNMUTE/MUTE JAN LU OTAK ATIK BEGO~//
 const myBott = ['u42465e675d3eaf98312c2a9a418b3ba2];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
 
-const myBot = ['u42465e675d3eaf98312c2a9a418b3ba2'];//TARO MID LU DISINI
+const myBot = ['u42465e675d3eaf98312c2a9a418b3ba2'];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 function isAdminOrBot(param) {
